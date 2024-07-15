@@ -31,5 +31,8 @@ O objetivo deste projeto é demonstrar minhas habilidades em automação de test
     <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a> <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
   </a>
   
