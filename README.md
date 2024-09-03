@@ -95,8 +95,11 @@ Você pode executar os testes automatizados de diferentes maneiras, dependendo d
   
    - Licença
 Este projeto é licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 272d20e (first commit)
